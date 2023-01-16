@@ -1,6 +1,6 @@
 # FlyAway_Yash_Project
 
-## FlyAway A Ticket Booking Portal Application in JAVA - Servlet&JSP
+## FlyAway- A Ticket Booking Portal Application
 
 ## Table of contents
 - [General info](#general-info)
