@@ -1,4 +1,4 @@
-# FlyAway_Yash_Project
+# FlyAway_Yash_Singhal_Project
 
 ## FlyAway- A Ticket Booking Portal Application
 
